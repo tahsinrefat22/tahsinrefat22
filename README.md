@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tahsin Ahmed Refat
 
-🎓 Computer Science student | 💻 Full Stack Software Engineer  
+🎓 Computer Science Graduate | 💻 Full Stack Software Engineer  
 Building reliable systems, exploring modern web & backend technologies,  
 and learning deeply through real-world projects.
 
