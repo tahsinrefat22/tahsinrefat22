@@ -10,7 +10,7 @@ it's about making them **clean, scalable, and understandable**.
 ---
 
 ## 🧠 About Me
-## 🎨 Click here(https://my-first-portfolio-wbfz.vercel.app/) to see my portfolio
+## 🎨 Click [here](https://my-first-portfolio-wbfz.vercel.app/) to see my portfolio
 
 - Backend-focused engineer with strong system design interest  
 - Enjoy working with APIs, databases, and workflow systems  
